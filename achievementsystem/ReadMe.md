@@ -6,7 +6,7 @@ The current achievement provides
 2. Achievement: defines Collection of AchievementRule that to be passed by player to receive the achievement
 3. Current notification and persistence implementation just does sysout
 4. AchievementOrchestrator defines the template where the achievements awarded to player, persisted and notified.
-
+5. Added new statistic timeTakenToKillsOpponent and used with conjuction numberOfHits and numberOfAttemptedAttacks(Sharpshooter award)
 Run as standalone program:
 
 Run com.techdisqus.driver.driver program AchievementDriver in main source folder
